@@ -1,3 +1,5 @@
+//this db.js is like index.js but having allroutes & logics in single file
+
 const express = require('express');
 const app = express();
 
